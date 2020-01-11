@@ -1,4 +1,4 @@
-# absensi_pkl
+# Absensi PKL
 Absensi Siswa PKL Berbasis web 
 
 Cara Instalasi
