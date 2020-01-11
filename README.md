@@ -7,7 +7,9 @@ Cara Instalasi
 3. Run the program
 
 Akun Admin
-   User -> admin@localhost.vom
+
+   User -> admin@localhost.com
+   
    Pass -> admin
    
    
